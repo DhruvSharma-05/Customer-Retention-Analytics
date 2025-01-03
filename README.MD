@@ -107,14 +107,14 @@ Customer Retention Analytics is a project designed to analyze customer data, pre
 ### Dashboard Overview
 
 [Dashboard Screenshot]
-[alt text](image-2.png)
-[alt text](image.png)
+![alt text](image-2.png)
+![alt text](image.png)
 
 
 ### Churn Prediction Results
 
 [Prediction Results]
-[alt text](image-3.png)
+![alt text](image-3.png)
 
 ---
 
