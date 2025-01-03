@@ -40,7 +40,7 @@ Customer Retention Analytics is a project designed to analyze customer data, pre
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-repo/customer-retention-analytics.git
+   git clone https://github.com/DhruvSharma-05/Customer-Retention-Analytics.git
    cd customer-retention-analytics
    ```
 
