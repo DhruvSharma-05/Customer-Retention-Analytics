@@ -132,5 +132,5 @@ Customer Retention Analytics is a project designed to analyze customer data, pre
 For any queries or suggestions, reach out to:
 
 - **Name**: Dhruv Sharma
-- **Email**: your.email@example.com
+- **Email**: dhruv.sharma1592@gmail.com
 - **GitHub**: [github.com/dhruv-sharma](https://github.com/DhruvSharma-05)
