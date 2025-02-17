@@ -61,7 +61,30 @@ Customer Retention Analytics is a project designed to analyze customer data, pre
 
 ---
 
-
+## API Endpoints
+### `/get_data` (GET)
+- Retrieves customer data as JSON.
+- **Usage**: `curl http://localhost:5000/get_data`
+### `/predict_churn` (POST)
+- Predicts churn based on customer data.
+- **Payload Example**:
+```json
+[
+	    {
+	      "Segment": "Gold",
+	      "Retention_Rate": 0.85,
+	      "Engagement_Score": 78,
+	      "Region": "North"
+	    }
+]
+ ```
+- **Response Example**:
+```json
+	  [
+	    { "Churn_Prediction": 0 }
+	  ]
+```
+---
 
 ## Technologies Used
 
